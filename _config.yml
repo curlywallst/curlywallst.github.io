@@ -1,0 +1,21 @@
+# Site settings
+title: Full Stack Web Developer
+header-img: img/home-bg.png
+email: nnoyes@comcast.net
+copyright_name: curlywallst
+description: > # this means to ignore newlines until "baseurl:"
+  Flatiron School online program
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: curlywallst
+github_username:  curlywallst
+learn_profile: curlywallst
+email_username: nnoyes@comcast.net
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
