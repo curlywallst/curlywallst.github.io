@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some days are more fun than others"
-date:   2017-08-09 19:50:00 +0000
+date:   2017-08-09 15:50:01 -0400
 ---
 
 
